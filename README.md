@@ -23,4 +23,5 @@ Features
 - Register New Member
 - Update Member Information
 - Delete Member Record
-- Search Members
+- Search Member
+_Last updated during GitHub Actions Laboratory._
